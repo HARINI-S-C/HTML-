@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Table</title>
+</head>
+<body>
+    <center><h1>IMAGE TABLE</h1></center>
+    <table align="center">
+        <caption>Gallery of Dragon Tale</caption>
+        <tr>
+            <td><img src="img1.jpg" height="200" width="200"></td>
+            <td><img src="img2.jpg" height="200" width="200"></td>
+            <td><img src="img3.jpg" height="200" width="200"></td>
+        </tr>
+        <tr>
+            <td><img src="img4.jpg" height="200" width="200"></td>
+            <td><img src="img5.jpg" height="200" width="200"></td>
+            <td><img src="img6.jpg" height="200" width="200"></td>
+        </tr>
+        <tr>
+            <td><img src="img7.jpg" height="200" width="200"></td>
+            <td><img src="img8.jpg" height="200" width="200"></td>
+            <td><img src="img9.jpg" height="200" width="200"></td>
+        </tr>
+    </table>
+</body>
+</html>
